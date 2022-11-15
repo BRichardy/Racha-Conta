@@ -1,16 +1,3 @@
 # racha_conta
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A inspirationed app in a split account process, build up and created in flutter, the use is simply the user will put the bill in the textfield asking for the bill and the amount of tip that he/she want to give (the maximum is 10%) and of course the number of persons that will pay by pressing the confirmation button a popup will say the amount of the bill with the tip and the amount that each person should pay, with a validator to ensure that each field should be filled.
